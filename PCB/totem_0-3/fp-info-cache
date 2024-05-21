@@ -1,4 +1,4 @@
-23538405000815040
+23459484637866334
 Audio_Module
 Reverb_BTDR-1H
 Digital Reverberation Unit, http://www.belton.co.kr/inc/downfile.php?seq=17&file=pdf (footprint from http://www.uk-electronic.de/PDF/BTDR-1.pdf)
@@ -94821,153 +94821,6 @@ xiao RP2040 MOUDLE14P-SMD-2.54-21X17.8MM
 0
 14
 14
-kleeb
-e73-2g4m08s1c
-
-
-0
-43
-43
-kleeb
-e73-2g4m08s1c-no-underside
-
-
-0
-28
-28
-kleeb
-e73-2g4m08s1c-no-underside-shrunk
-
-
-0
-28
-28
-kleeb
-e73-2g4m08s1c-shrunk
-
-
-0
-43
-43
-kleeb
-e73-2g4m08s1c-tht
-
-
-0
-43
-43
-kleeb
-e73-2g4m08s1c-tht-shrunk
-
-
-0
-43
-43
-kleeb
-holyiot-18010
-
-
-0
-55
-55
-kleeb
-holyiot-18010-no-underside
-
-
-0
-37
-37
-kleeb
-ms88sf3
-
-
-0
-64
-64
-kleeb
-rp2040-zero-smd
-
-
-0
-23
-23
-kleeb
-rp2040-zero-smd-pads
-
-
-0
-33
-33
-kleeb
-rp2040-zero-smd-pads-cutout
-
-
-0
-33
-33
-kleeb
-rp2040-zero-smd-pads-cutout-castellated
-
-
-0
-34
-34
-kleeb
-rp2040-zero-tht
-
-
-0
-23
-23
-kleeb
-rp2040-zero-tht-pads
-
-
-0
-33
-33
-kleeb
-rp2040-zero-tht-pads-cutout
-
-
-0
-33
-33
-kleeb
-xiao-ble-smd
-
-
-0
-22
-22
-kleeb
-xiao-ble-smd-cutout
-
-
-0
-22
-22
-kleeb
-xiao-ble-tht
-
-
-0
-22
-22
-kleeb
-xiao-smd
-
-
-0
-18
-18
-kleeb
-xiao-tht
-
-
-0
-18
-18
 marbastlib-mx
 LED_MX_3mm
 Add-on for regular MX-footprints with 3mm LED
@@ -95668,633 +95521,458 @@ moko mk08a mk08b nRF52840 bluetooth low energy
 0
 60
 58
-pg1350
-4P4C
-http://www.assmann.us/specs/A-2004-3-4-LP-N-R_REV00.pdf
-4P4C, RJ
-0
-6
-6
-pg1350
-ALPS_PLATE_SPRING
-http://deskthority.net/wiki/File:Alps_Electric_--_spec_--_5454_31.pdf
-ALPS, keyboard switch, SKCM, SKCL
-0
-4
-3
-pg1350
-ALPS_PLATE_SPRING_CUTOUT
+mcu
+e73-2g4m08s1c
 
 
 0
-0
-0
-pg1350
-ALPS_SKCM
-http://deskthority.net/wiki/File:Alps_Electric_--_spec_--_5454_31.pdf
-ALPS, keyboard switch, SKCM, SKCL
-0
-2
-2
-pg1350
-ALPS_SKCM_CUTOUT
+43
+43
+mcu
+e73-2g4m08s1c-no-underside
 
 
 0
-0
-0
-pg1350
-ALPS_SKCM_CUTOUT_STAB256
+28
+28
+mcu
+e73-2g4m08s1c-no-underside-shrunk
 
 
 0
-0
-0
-pg1350
-ALPS_SKCM_CUTOUT_STAB406
+28
+28
+mcu
+e73-2g4m08s1c-shrunk
 
 
 0
-0
-0
-pg1350
-ALPS_SKCM_CUTOUT_STAB883
+43
+43
+mcu
+e73-2g4m08s1c-tht
 
 
 0
-0
-0
-pg1350
-ALPS_SKCM_LED
-http://deskthority.net/wiki/File:Alps_Electric_--_spec_--_5454_31.pdf
-ALPS, keyboard switch, SKCM, SKCL
-0
-4
-4
-pg1350
-ALPS_SKCM_reverse_pad
-http://deskthority.net/wiki/File:Alps_Electric_--_spec_--_5454_31.pdf
-ALPS, keyboard switch, SKCM, SKCL
-0
-2
-2
-pg1350
-AVR_ICSP_3x2
-Double rangee de contacts 2 x 4 pins
-CONN
-0
-6
-6
-pg1350
-C_1608
-SMT, 1608, 0603
-SMT, 1608, 0603
-0
-2
-2
-pg1350
-C_1608_rev2
-SMT, 1608, 0603
-SMT, 1608, 0603
-0
-2
-2
-pg1350
-C_3216
-SMD, 3216, 1210, C
-SMD, 3216, 1210, C
-0
-2
-2
-pg1350
-C_3216_rev2
-SMD, 3216, 1210, C
-SMD, 3216, 1210, C
-0
-2
-2
-pg1350
-C_3225
-SMD, 3216, 1210, C
-SMD, 3216, 1210, C
-0
-2
-2
-pg1350
-C_3528
-SMD, 3216, 1210, C
-SMD, 3216, 1210, C
-0
-2
-2
-pg1350
-C_3528_pol
-SMD, 3216, 1210, C
-SMD, 3216, 1210, C
-0
-2
-2
-pg1350
-C_6032
-SMD, 3216, 1210, C
-SMD, 3216, 1210, C
-0
-2
-2
-pg1350
-DSUB9P
+43
+43
+mcu
+e73-2g4m08s1c-tht-shrunk
 
 
 0
-11
-10
-pg1350
-D_SC79
-SMT, 1608, 0603
-SMT, 1608, 0603
-0
-2
-2
-pg1350
-D_SOD123
+43
+43
+mcu
+holyiot-18010
 
 
 0
-2
-2
-pg1350
-D_SOD123W_hand
+55
+55
+mcu
+holyiot-18010-no-underside
 
 
 0
-2
-2
-pg1350
-D_SOD123_axial
+37
+37
+mcu
+ms88sf3
 
 
 0
-6
-2
-pg1350
-D_SOD123_hand
+64
+64
+mcu
+rp2040-zero-smd
 
 
 0
-2
-2
-pg1350
-D_axial
+23
+23
+mcu
+rp2040-zero-smd-pads
 
 
 0
-2
-2
-pg1350
-FA-238
+33
+33
+mcu
+rp2040-zero-smd-pads-cutout
 
 
 0
-4
-3
-pg1350
-HC-49_SMT
+33
+33
+mcu
+rp2040-zero-smd-pads-cutout-castellated
 
 
 0
-2
-2
-pg1350
-HHKB_JP_HRS_DF14_15P
-http://www.mouser.com/ds/2/185/e53800017-12550.pdf
-HHKB JP, HRS, Hirose, DF14, 15P
-0
-17
-17
-pg1350
-HHKB_PRO2_ZH13
-http://www.jst-mfg.com/product/pdf/eng/eZH.pdf
-HHKB pro2, JST, ZH
-0
-15
-15
-pg1350
-HHKB_PRO2_ZH13_TH
-http://www.jst-mfg.com/product/pdf/eng/eZH.pdf
-JST ZH 13 HHKB pro2
-0
-13
-13
-pg1350
-HHKB_PRO_PH15
-http://www.jst-mfg.com/product/pdf/eng/ePH.pdf
-JST PH 15 HHKB PRO
-0
-15
-15
-pg1350
-HOLE_M2.6
+34
+34
+mcu
+rp2040-zero-tht
 
 
 0
-1
-1
-pg1350
-HOLE_M3
+23
+23
+mcu
+rp2040-zero-tht-pads
 
 
 0
-1
-1
-pg1350
-HRS_DF14_20P
-http://www.mouser.com/ds/2/185/e53800017-12550.pdf
-HHKB JP, HRS, Hirose, DF14, 15P
+33
+33
+mcu
+rp2040-zero-tht-pads-cutout
+
+
+0
+33
+33
+mcu
+xiao-ble-smd
+
+
 0
 22
 22
-pg1350
-JST_PH2_SMT
-http://www.jst-mfg.com/product/pdf/eng/ePH.pdf
-JST, PH, Lipo, battery
+mcu
+xiao-ble-smd-cutout
+
+
+0
+22
+22
+mcu
+xiao-ble-tht
+
+
+0
+22
+22
+mcu
+xiao-smd
+
+
+0
+18
+18
+mcu
+xiao-tht
+
+
+0
+18
+18
+misc
+BA1AAAPC
+
+
+0
+2
+2
+misc
+CMS1609
+
+
+0
+2
+2
+misc
+KXOB25-05X3F
+
+
+0
+2
+2
+misc
+auklet-cover-mount
+
+
+0
+0
+0
+misc
+auklet-mount
+
+
+0
+0
+0
+misc
+batwings
+
+
+0
+0
+0
+misc
+crides-neg
+
+
+0
+0
+0
+misc
+crides-pos
+
+
+0
+0
+0
+misc
+debug-port
+
+
 0
 4
-3
-pg1350
-JST_PH2_SMT_TH
-http://www.jst-mfg.com/product/pdf/eng/ePH.pdf
-JST, PH, Lipo, battery
-0
-6
-3
-pg1350
-JST_PH2_TH
-
-JST, PH2, Lipo
-0
-2
-2
-pg1350
-LED_0805
-LED 0805 smd package
-LED 0805 SMD
-0
-2
-2
-pg1350
-LED_2012_HSOL
-LED 0805 smd package
-LED 0805 SMD
-0
-2
-2
-pg1350
-LED_3020_REFLOW
-LED 0805 smd package
-LED 0805 SMD
-0
-2
-2
-pg1350
-LED_3025_DUAL
+4
+misc
+debug-port-single-side
 
 
 0
 4
 4
-pg1350
-LED_TH
-LED 3mm - Lead pitch 100mil (2,54mm)
-LED led 3mm 3MM 100mil 2,54mm
-0
-2
-2
-pg1350
-LED_TH_BIVAR
-LED 3mm - Lead pitch 100mil (2,54mm)
-LED led 3mm 3MM 100mil 2,54mm
-0
-2
-2
-pg1350
-LTC4054
-
-Lipo charger
-0
-5
-5
-pg1350
-L_6x6MM
+misc
+embedded
 
 
 0
-2
-2
-pg1350
-L_7x7MM
+0
+0
+misc
+hirose-df30fb-20ds-0.4v(82)
 
 
 0
-2
-2
-pg1350
-MINI_DIN_8
+22
+21
+misc
+jlc-tooling-hole
 
 
 0
+0
+0
+misc
+molex-503182-1852
+
+
+0
+15
 11
-9
-pg1350
-MOS_FET_SOT23-3_HSOL
-SOT23
+misc
+nothing
+
 
 0
-3
-3
+0
+0
 pg1350
-PG13500-reversible
+Breakaway_Tabs
 
 
+0
+0
+0
+pg1350
+LED_WS2812B-PLCC4
+http://www.world-semi.com/uploads/soft/150522/1-150522091P5.pdf
+LED NeoPixel
+0
+4
+4
+pg1350
+MJ-4PP-9
+
+
+0
+4
+4
+pg1350
+OLED
+Connecteur 6 pins
+CONN DEV
+0
+4
+4
+pg1350
+PJ-398A-5A_PJ-399B-6A
+
+usb usb-c 2.0 pd
 0
 6
-2
-pg1350
-PIN_1
-
-CONN pin 1 circle
-0
-1
-1
-pg1350
-PIN_1_SQUARE
-
-CONN pin 1 square
-0
-1
-1
-pg1350
-PPTC_nano
-
-
-0
-2
-2
-pg1350
-PTC_3225
-
-
-0
-2
-2
-pg1350
-Poker_oval_hole
-
-
-0
-1
-0
-pg1350
-Poker_side_edge_long
-
-
-0
-1
-0
-pg1350
-QFP32
-
-
-0
-32
-32
-pg1350
-QFP32_reflow
-http://www.atmel.com/images/atmel-8826-seeprom-pcb-mounting-guidelines-surface-mount-packages-applicationnote.pdf
-
-0
-32
-32
-pg1350
-QFP44
-
-
-0
-44
-44
-pg1350
-QFP44_reflow
-http://www.atmel.com/images/atmel-8826-seeprom-pcb-mounting-guidelines-surface-mount-packages-applicationnote.pdf
-
-0
-44
-44
-pg1350
-RN42
-
-
-0
-32
-32
-pg1350
-R_1608
-SMT, 1608, 0603
-SMT, 1608, 0603
-0
-2
-2
-pg1350
-R_1608_NOGUIDE
-SMT, 1608, 0603
-SMT, 1608, 0603
-0
-2
-2
-pg1350
-R_1608_rev2
-SMT, 1608, 0603
-SMT, 1608, 0603
-0
-2
-2
-pg1350
-R_2012
-SMT, 1608, 0603
-SMT, 1608, 0603
-0
-2
-2
-pg1350
-SLP3-200-100-F
-
-
-0
-0
-0
-pg1350
-SM_3216_POL
-
-
-0
-2
-2
-pg1350
-SOLDER_JUMPER_2
-
-solder jumper bridge configuration
-0
-2
-2
-pg1350
-SOLDER_JUMPER_2_WIRED
-
-solder jumper bridge configuration
-0
-3
-1
-pg1350
-SOLDER_JUMPER_3
-
-solder jumper bridge configuration
-0
-3
 3
 pg1350
-SOT23-3_HSOL
-SOT23
-
+Pico-EZmate_PCB_Header
+Molex Pico-EZmate series connector, 78171-0004 (http://www.molex.com/pdm_docs/sd/781710002_sd.pdf), generated with kicad-footprint-generator
+connector Molex Pico-EZmate side entry
 0
-3
-3
-pg1350
-SOT23-5_HSOL
-SOT23
-
-0
-5
+22
 5
 pg1350
-SOT23-6_HSOL
-SOT23
+ProMicro
+
 
 0
-6
-6
+24
+24
 pg1350
-SW_ALPS_SKRP
+ResetSW
 
 
 0
-4
+2
 2
 pg1350
-SW_ALPS_SKSG
+ST-0277D00-052-142
+
+usb usb-c 2.0 pd
+0
+5
+4
+pg1350
+TS-1088R-02026
+
+usb usb-c 2.0 pd
+0
+2
+2
+pg1350
+TYPE-C-31-M-13C
+USB Type-C receptacle for USB 2.0 and PD, http://www.krhro.com/uploads/soft/180320/1-1P320120243.pdf
+usb usb-c 2.0 pd
+0
+20
+17
+pg1350
+YS-SK6812MINI-E
+
+
+0
+4
+4
+pg1350
+corne-horizontal
+
+
+0
+0
+0
+pg1350
+corne-logo
+
+
+0
+0
+0
+pg1350
+corne-logo-horizontal
+
+
+0
+0
+0
+pg1350
+corne-logo-horizontal-mask
+
+
+0
+0
+0
+pg1350
+corne-logo-silk
+
+
+0
+0
+0
+pg1350
+corne-mask
+
+
+0
+0
+0
+pg1350
+keyswitch_cherrymx_alps_1u
+
+
+0
+3
+2
+pg1350
+keyswitch_cherrymx_alps_choc12_1.5u
 
 
 0
 6
-4
+2
 pg1350
-SW_ALPS_SSAA
-
-
-0
-8
-8
-pg1350
-SW_MINI_SLIDE
+keyswitch_cherrymx_alps_choc12_1u
 
 
 0
 6
-6
+2
 pg1350
-SW_TACT_TH_HORIZ
-http://www.alps.com/products/WebObjects/catalog.woa/E/HTML/Tact/SnapIn/SKHH/SKHHLMA010.html
-ALPS SKHH tactile switch
-0
-4
-4
-pg1350
-SW_TACT_TH_HORIZ_LOW
-http://www.alps.com/products/WebObjects/catalog.woa/E/HTML/Tact/SnapIn/SKHL/SKHLLAA010.html
-ALPS SKHLL low tactile switch
-0
-4
-4
-pg1350
-USB_A
+keyswitch_cherrymx_hotswap_1.5u
 
 
 0
-6
+2
+2
+pg1350
+keyswitch_cherrymx_hotswap_1u
+
+
+0
+2
+2
+pg1350
+keyswitch_cherrymx_hotswap_1u_rotary_encoder_ec12
+
+
+0
+9
 5
 pg1350
-USB_A_PLUG
+keyswitch_choc12_gateron_low_profile_hotswap_1u_no_led
 
 
 0
-8
-6
+4
+2
 pg1350
-USB_microB
-USB microB hirose ZX62R-B-5P
-USB micorB hirose
-0
-11
-6
-pg1350
-USB_miniB
-http://www.hirose.co.jp/cataloge_hp/e24000019.pdf
-USB miniB hirose
-0
-9
-9
-pg1350
-USB_miniB_hirose_5S8
-USB miniB hirose UX60SC-MB-5S8
-USB miniB hirose through hole UX60SC-MB-5S8
-0
-9
-6
-pg1350
-USB_miniB_hirose_5ST
-USB miniB hirose UX60SC_MB_5ST
-USB miniB hirose new
-0
-7
-6
-pg1350
-USB_miniB_hirose_5ST_hand
-USB miniB hirose UX60SC_MB_5ST
-USB miniB hirose new
-0
-7
-6
-pg1350
-WT12_bluegiga
-
-BlueGiga, WT12, Bluetooth
-0
-31
-31
-pg1350
-XTAL_HC_49_TH
+keyswitch_choc12_hotswap_1.5u
 
 
 0
 2
 2
 pg1350
-tmk2016
+keyswitch_choc12_hotswap_1u
 
 
 0
-0
-0
+2
+2
 pg1350
-tmk_logo
+keyswitch_choc12_hotswap_1u_rotary_encoder_ec12
 
 
 0
+9
+5
+pg1350
+keyswitch_gateron_low_profile_hotswap_1u
+
+
 0
-0
+2
+2
