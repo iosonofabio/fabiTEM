@@ -37,9 +37,9 @@
         "other_text_thickness": 0.15,
         "other_text_upright": false,
         "pads": {
-          "drill": 3.2,
-          "height": 5.6,
-          "width": 5.6
+          "drill": 0.0,
+          "height": 0.875,
+          "width": 0.2
         },
         "silk_line_width": 0.15,
         "silk_text_italic": false,
@@ -459,7 +459,7 @@
     ]
   },
   "meta": {
-    "filename": "fabiTEM_0-4.kicad_pro",
+    "filename": "fabiTEM_0-5.kicad_pro",
     "version": 1
   },
   "net_settings": {
@@ -498,7 +498,7 @@
       "pos_files": "",
       "specctra_dsn": "",
       "step": "../fabiTEM_edge_0_5.step",
-      "svg": "fabiTEM_0-4/",
+      "svg": "./",
       "vrml": ""
     },
     "page_layout_descr_file": ""

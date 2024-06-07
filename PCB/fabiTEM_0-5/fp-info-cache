@@ -1,4 +1,4 @@
-24862303858572207
+24881204719409006
 Audio_Module
 Reverb_BTDR-1H
 Digital Reverberation Unit, http://www.belton.co.kr/inc/downfile.php?seq=17&file=pdf (footprint from http://www.uk-electronic.de/PDF/BTDR-1.pdf)
@@ -99960,12 +99960,33 @@ Varistor VF
 2
 2
 fabiTEM
+ABM8-272-T3
+
+
+0
+4
+4
+fabiTEM
+AMPHENOL_10118192-0001LF
+
+
+0
+11
+11
+fabiTEM
 BatteryPad
 
 
 0
 1
 1
+fabiTEM
+DIOM3616X98N
+
+
+0
+2
+2
 fabiTEM
 Diode_SOD123
 Diode, DO-41, SOD81, Horizontal, RM 10mm,
@@ -99995,12 +100016,47 @@ MJ-4PP-9_1side
 4
 4
 fabiTEM
+MOLEX_1054500101
+
+
+0
+28
+28
+fabiTEM
 MSK12C02
 
 
 0
 5
 4
+fabiTEM
+PTS810SJG250SMTRLFS
+<b>pts810</b><br>
+
+0
+4
+4
+fabiTEM
+RP2040_Stamp_FlexyPin
+
+
+0
+160
+40
+fabiTEM
+RP2040_Stamp_SMD
+
+
+0
+40
+40
+fabiTEM
+RP2040_Stamp_THT
+
+
+0
+80
+40
 fabiTEM
 SATA-7_SMD
 SERIAL ATA 7P R/A SMT
@@ -100030,12 +100086,33 @@ alps tht dip pushbutton SPST
 4
 3
 fabiTEM
+SOIC127P790X216-8N
+
+
+0
+8
+8
+fabiTEM
+SOP65P640X120-24N
+
+
+0
+24
+24
+fabiTEM
 USB-C-SMD_GT-USB-7013
 
 
 0
 28
 28
+fabiTEM
+USB_C_Receptacle_GCT_USB4105-xx-A_16P_TopMnt_Horizontal
+USB 2.0 Type C Receptacle, GCT, 16P, top mounted, horizontal, 5A: https://gct.co/files/drawings/usb4105.pdf
+USB C Type-C Receptacle SMD USB 2.0 16P 16C USB4105-15-A USB4105-15-A-060 USB4105-15-A-120 USB4105-GF-A USB4105-GF-A-060 USB4105-GF-A-120
+0
+20
+17
 fabiTEM
 mousebites_2.5mm
 
