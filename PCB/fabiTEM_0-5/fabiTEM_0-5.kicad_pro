@@ -80,6 +80,7 @@
         "footprint_type_mismatch": "error",
         "hole_clearance": "error",
         "hole_near_hole": "ignore",
+        "holes_co_located": "warning",
         "invalid_outline": "error",
         "isolated_copper": "warning",
         "item_on_disabled_layer": "error",
@@ -459,7 +460,7 @@
     ]
   },
   "meta": {
-    "filename": "fabiTEM_0-4.kicad_pro",
+    "filename": "fabiTEM_0-5.kicad_pro",
     "version": 1
   },
   "net_settings": {
