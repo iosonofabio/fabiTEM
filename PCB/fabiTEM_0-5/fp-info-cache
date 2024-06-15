@@ -1,4 +1,4 @@
-24881204719409006
+24882922557221337
 Audio_Module
 Reverb_BTDR-1H
 Digital Reverberation Unit, http://www.belton.co.kr/inc/downfile.php?seq=17&file=pdf (footprint from http://www.uk-electronic.de/PDF/BTDR-1.pdf)
@@ -100036,6 +100036,13 @@ PTS810SJG250SMTRLFS
 0
 4
 4
+fabiTEM
+QFN65P600X600X100-29N
+
+
+0
+29
+29
 fabiTEM
 RP2040_Stamp_FlexyPin
 

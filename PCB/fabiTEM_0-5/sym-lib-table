@@ -8,4 +8,5 @@
   (lib (name "1054500101")(type "KiCad")(uri "${KIPRJMOD}/symbols/1054500101.kicad_sym")(options "")(descr ""))
   (lib (name "RP2040_Stamp")(type "KiCad")(uri "${KIPRJMOD}/symbols/RP2040_Stamp.kicad_sym")(options "")(descr ""))
   (lib (name "TCA9555PWR")(type "KiCad")(uri "${KIPRJMOD}/symbols/TCA9555PWR.kicad_sym")(options "")(descr ""))
+  (lib (name "MCP23017-EML")(type "KiCad")(uri "${KIPRJMOD}/symbols/MCP23017-EML.kicad_sym")(options "")(descr ""))
 )
