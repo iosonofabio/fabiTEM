@@ -8,13 +8,13 @@
 
 <h1 align="center">fabi T E M</h1>
 
-fabiTEM is a 38 key column-staggered choc split keyboard forked from the [TOTEM](https://github.com/GEIGEIGEIST/TOTEM/tree/main). It is meant to be used with a RP2040 and an MCP23017 IO expander.
+fabiTEM is a 38 key column-staggered choc split keyboard forked from the [TOTEM](https://github.com/GEIGEIGEIST/TOTEM/tree/main). It is meant to be used with a [RP2040](https://www.raspberrypi.com/documentation/microcontrollers/rp2040.html) and an [MCP23017](https://www.microchip.com/en-us/product/mcp23017) IO expander.
 
 ***
 
 ## LAYOUT
 
-![TOTEM layout](/docs/images/TOTEM_layout.svg)
+![fabiTEM layout](/docs/images/fabiTEM.png)
 
 ***
 
