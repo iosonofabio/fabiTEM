@@ -1,10 +1,6 @@
-<!--
 <picture align="center">
-  <source media="(prefers-color-scheme: dark)" srcset="/docs/images/TOTEM_logo_dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="/docs/images/TOTEM_logo_bright.svg">
-  <img alt="TOTEM logo" src="/docs/images/TOTEM_logo_dark.svg">
+  <img alt="TOTEM logo" src="/docs/images/fabiTEM-logo.svg">
 </picture>
--->
 
 <h1 align="center">fabi T E M</h1>
 
