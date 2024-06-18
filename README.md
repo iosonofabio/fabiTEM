@@ -14,7 +14,7 @@ fabiTEM is a 38 key column-staggered choc split keyboard forked from the [TOTEM]
 
 ## LAYOUT
 
-![fabiTEM layout](/docs/images/fabiTEM.png)
+![fabiTEM layout](/case/inkscape/fabiTEM-brd.png)
 
 ***
 
