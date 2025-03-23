@@ -130,17 +130,17 @@
 		(start -4.5 -3.1)
 		(end 4.5 -3.1)
 		(stroke
-			(width 0.05)
+			(width 0.1)
 			(type default)
 		)
 		(layer "Edge.Cuts")
 		(uuid "eedc3fd9-c5a3-4a87-b216-d49cb0e1db8e")
 	)
 	(fp_line
-		(start -4.5 3.6)
+		(start -4.5 3.7)
 		(end -4.5 -3.1)
 		(stroke
-			(width 0.05)
+			(width 0.1)
 			(type default)
 		)
 		(layer "Edge.Cuts")
@@ -150,7 +150,7 @@
 		(start 4.5 -3.1)
 		(end 4.5 3.7)
 		(stroke
-			(width 0.05)
+			(width 0.1)
 			(type default)
 		)
 		(layer "Edge.Cuts")
@@ -346,9 +346,9 @@
 		(remove_unused_layers no)
 		(uuid "78dd2ee1-deea-4d54-83ce-33895a8fe3a2")
 	)
-	(model "${KICAD8_3DMODEL_DIR}/Connector_USB.3dshapes/USB_C_Receptacle_GCT_USB4105-xx-A_16P_TopMnt_Horizontal.wrl"
+	(model "${KIPRJMOD}/3D/HRO TYPE-C-31-M-14.step"
 		(offset
-			(xyz 0 0 -2.2)
+			(xyz 0 -4 -0.5)
 		)
 		(scale
 			(xyz 1 1 1)

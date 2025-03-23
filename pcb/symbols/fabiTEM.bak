@@ -2643,7 +2643,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "fabiTEM:USB_C_Receptacle_GCT_USB4105-xx-A_16P_MidMnt_Horizontal"
 			(at 3.81 0 0)
 			(effects
 				(font
